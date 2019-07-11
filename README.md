@@ -1,3 +1,4 @@
 # web-personal-django
 web personal prueba django. 
-Para su visualización ir a: http://anderplascencia.pythonanywhere.com/portfolio/
+Python anywhere: http://anderplascencia.pythonanywhere.com/portfolio/
+Heroku: https://webpersona.herokuapp.com/
